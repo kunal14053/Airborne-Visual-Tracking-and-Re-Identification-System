@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

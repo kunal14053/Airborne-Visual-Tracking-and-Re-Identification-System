@@ -1,0 +1,170 @@
+[
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/btn_lock_selector.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/FPVDemo/dJISDKLIB/unspecified/res/drawable/btn_lock_selector.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/back_button_press.png",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/src/main/res/drawable/back_button_press.png"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/round_btn.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/src/main/res/drawable/round_btn.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/btn_radio_selector.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/FPVDemo/dJISDKLIB/unspecified/res/drawable/btn_radio_selector.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/round_btn_pressed.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/src/main/res/drawable/round_btn_pressed.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/radio_unchecked.png",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/FPVDemo/dJISDKLIB/unspecified/res/drawable/radio_unchecked.png"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/btn_zoom_selector.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/FPVDemo/dJISDKLIB/unspecified/res/drawable/btn_zoom_selector.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/back_button_normal.png",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/src/main/res/drawable/back_button_normal.png"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/selector_back_button.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/src/main/res/drawable/selector_back_button.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/back_button_disable.png",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/src/main/res/drawable/back_button_disable.png"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/radio_checked.png",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/FPVDemo/dJISDKLIB/unspecified/res/drawable/radio_checked.png"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/round_btn_normal.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/src/main/res/drawable/round_btn_normal.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/ic_launcher.png",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/FPVDemo/dJISDKLIB/unspecified/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/res/merged/debug/drawable/round_btn_disable.xml",
+        "source": "/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/src/main/res/drawable/round_btn_disable.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Fri Apr 13 13:21:32 IST 2018
+base.0=/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/media/kunal/EC409F3F409F0F86/@STUDIES/B-tech/ForthYear/Mid/FPVDemo/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

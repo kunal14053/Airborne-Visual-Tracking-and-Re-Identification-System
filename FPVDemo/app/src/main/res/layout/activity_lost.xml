@@ -1,0 +1,103 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:scrollbars="vertical"
+    >
+    <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="horizontal"
+        >
+
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:text="Result from KCFtracker"
+                android:textStyle="bold"
+                android:id="@+id/kunal"
+                android:layout_marginBottom="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:text="Velocity in x and y"
+                android:textStyle="bold"
+                android:id="@+id/kunal1"
+                android:layout_marginBottom="5dp"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:gravity="center"
+                android:text="Scale in x and y"
+                android:textStyle="bold"
+                android:id="@+id/kunal2"
+                android:layout_marginBottom="5dp"
+                />
+
+            <TextureView
+                android:id="@+id/video_previewer_surface"
+                android:layout_width="match_parent"
+                android:layout_height="339dp"
+                android:layout_gravity="center"
+                android:layout_centerHorizontal="true"
+                android:layout_above="@+id/linearLayout" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_alignParentBottom="true"
+                android:id="@+id/linearLayout">
+
+                <ToggleButton
+                    android:id="@+id/btn_record"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:text="Start Record"
+                    android:textOff="Start Record"
+                    android:textOn="Stop Record"
+                    android:layout_weight="1"
+                    android:focusable="false"
+                    android:layout_gravity="center_vertical"
+                    android:textSize="12sp"
+                    android:checked="false" />
+
+                <Button
+                    android:id="@+id/btn_cancel"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:focusable="false"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:text="Close"
+                    android:textSize="12sp"/>
+
+            </LinearLayout>
+
+
+            <ImageView
+                android:layout_marginTop="15dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/result"
+                />
+
+
+        </LinearLayout>
+    </ScrollView>
+</ScrollView>
